@@ -8,13 +8,8 @@ namespace GC_Lab_10
     {
         static void Main(string[] args)
         {
-            
-            
-
             Console.WriteLine("Welcome to the Movie List Application!");
             Console.WriteLine($"\nThere are 10 movies in this list.");
-
-            
 
             bool repeat = true;
             while (repeat)
